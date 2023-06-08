@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fieldSets>
+        <label><!-- Copado Header Fields --></label>
+        <name>copado__Copado_Header_Fields</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Custom Fields --></label>
+        <name>copado__CustomFields</name>
+    </fieldSets>
+    <layouts>
+        <layout>Git Repository Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Git Server Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <quickActions>
+        <label><!-- Create Scratch Orgs --></label>
+        <name>Create_Scratch_Orgs</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Initiate --></label>
+        <name>Initiate</name>
+    </quickActions>
+</CustomObjectTranslation>

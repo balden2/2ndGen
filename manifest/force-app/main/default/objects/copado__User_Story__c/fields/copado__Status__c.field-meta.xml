@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>copado__Status__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Current status of the implementation of the User Story.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Current status of the implementation of the User Story.</inlineHelpText>
+    <label>Status</label>
+    <required>false</required>
+    <trackHistory>true</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>In Progress</fullName>
+                <default>false</default>
+                <label>In Progress</label>
+            </value>
+            <value>
+                <fullName>TO DO</fullName>
+                <default>false</default>
+                <label>TO DO</label>
+            </value>
+            <value>
+                <fullName>DONE</fullName>
+                <default>false</default>
+                <label>DONE</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

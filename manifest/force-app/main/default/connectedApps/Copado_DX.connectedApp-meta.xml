@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>c-ntrujillo@copado.com</contactEmail>
+    <label>Copado DX</label>
+    <oauthConfig>
+        <callbackUrl>http://localhost:1717/OauthRedirect</callbackUrl>
+        <certificate>MIIC8TCCAdkCFCojWYIfmU03oG0oqB9vkBplHVW1MA0GCSqGSIb3DQEBCwUAMDQxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZDb3BhZG8xFDASBgNVBAMMC3d3dy5jb3BhLmRvMCAXDTIyMTAxNDA3NDkxNFoYDzIxMzIwNDIwMDc0OTE0WjA0MQswCQYDVQQGEwJVUzEPMA0GA1UECgwGQ29wYWRvMRQwEgYDVQQDDAt3d3cuY29wYS5kbzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALm9u+S6aV2e+xeVcNQOvr6piHNxAnI2K+Lc+ksQJGbuaA9XiDcExzX1PEg/XwGmNRqlKTKDB6ahB/emDMR/kK8P94darAlGFyKDOfmzlP7wsww4nMZydi6AS2dzPZzqGTJ3NqCwJ116OmJ5Y//sOStwzQ9oQ3qFmoxD65d7K8pst0a7V2Dba3qhBc6ypjJa0G9FXVXn1txJRtM+Cpa2iSpQYsHrnPAFstqAysrBF/76NRcIvjecVG1paG2I2pep7zhWJo5ULc9Vt8NEy8s4wXmPR6tOX0tjreXN7JMGRqnz2IAxPwE3Rk7oCfCcMtP9WuertBOB6c1wZrqcGF/AzCcCAwEAATANBgkqhkiG9w0BAQsFAAOCAQEAiH/erk0iG5rw+ky4LJ0qXmOASR+/Aiz6MqcLPGJzp5F617n38dO1DLs7sR/KGpFxVNBzWGCbPN1wTaO6TrwG0/OdMYxUOV5M6lYfha1wjVPg0iC8Pk1kWoE+z5v/tHVtXmbY1xw/qvB//RJDoqV543sm+e2Km5o4guIUxfBiyKp+HqCpqzTkUBFPkCwmJvtABxpKZ4ra64B/mKEDNJSC6zPukMUm57RCV4sYU36oeWgatNyFr6hSbaZCoxIanU6XY+nZIyWxtXgNyDUi6rGCGtQanwHEyJooeMx1y840+8XdDjN7dtTGcKD0G7veU21/7Oy50vg1c1ivG7KeOg4o0g==</certificate>
+        <consumerKey>3MVG9qEXqmIutu_QNttBhrw05Q6ufRTjkM1mZt4V0GQ5x9ImdqyMWyHdhGgIqNjzVc6AJn.RMkysr4JBNPqqD</consumerKey>
+        <isAdminApproved>false</isAdminApproved>
+        <isClientCredentialEnabled>false</isClientCredentialEnabled>
+        <isCodeCredentialEnabled>false</isCodeCredentialEnabled>
+        <isCodeCredentialPostOnly>false</isCodeCredentialPostOnly>
+        <isConsumerSecretOptional>false</isConsumerSecretOptional>
+        <isIntrospectAllTokens>false</isIntrospectAllTokens>
+        <isSecretRequiredForRefreshToken>false</isSecretRequiredForRefreshToken>
+        <scopes>Api</scopes>
+        <scopes>Web</scopes>
+        <scopes>RefreshToken</scopes>
+    </oauthConfig>
+    <oauthPolicy>
+        <ipRelaxation>ENFORCE</ipRelaxation>
+        <refreshTokenPolicy>infinite</refreshTokenPolicy>
+    </oauthPolicy>
+</ConnectedApp>
