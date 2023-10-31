@@ -3,7 +3,7 @@
     <fullName>New_Field__c</fullName>
     <defaultValue>false</defaultValue>
     <externalId>false</externalId>
-    <label>New Field Edit</label>
+    <label>New Field Jira</label>
     <trackFeedHistory>false</trackFeedHistory>
     <type>Checkbox</type>
 </CustomField>
