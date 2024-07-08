@@ -25,5 +25,8 @@ public class AccountAutomations {
         return a;
     }
     // comment
+<<<<<<< HEAD
     // partialcommit test 7/8/24
+=======
+>>>>>>> 32118c90ee174e8215ed979f80b54c7a7e18f36e
 }

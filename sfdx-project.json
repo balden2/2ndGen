@@ -11,9 +11,13 @@
   "name": "tmp",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
+<<<<<<< HEAD
   "sourceApiVersion": "58.0",
   "packageAliases": {
     "BranchPMD": "0Ho8c000000blyWCAQ",
     "BranchPMD@1.0.0-1-main": "04t8c000001SM5zAAG"
   }
+=======
+  "sourceApiVersion": "55.0"
+>>>>>>> 32118c90ee174e8215ed979f80b54c7a7e18f36e
 }
